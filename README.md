@@ -11,3 +11,12 @@ Locations - 9h30 - 17h00 approx.
 - Day 3 - 06/02: Salle J.F. Denisse - in person
 - Day 4 - 06/05: Zoom (link will be provided)
 - Day 5 - 06/06: Zoom (link will be provided)
+
+--------
+
+Indicative program for the week:
+- Day1: An introduction to supervised machine learning
+- Day2: A dive into fully connected neural networks
+- Day3: Neural Networks for computer vision
+- Day4: Neural Networks for sequence modelling
+- Day5: Generative Modelling, Unsupervised Learning, Foundation Models
